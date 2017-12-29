@@ -1,0 +1,3 @@
+/* Developed by JackGlow
+Fork on GitHub: github.com/jackglow
+Instructions for adding own items for buying in NEWITEMS.txt file! :) */

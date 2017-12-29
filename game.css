@@ -1,0 +1,70 @@
+html {
+	background-color: #383b4c;
+	color: white;
+	-webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.p1 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: auto;
+  padding: -5px;
+  overflow: hidden;
+  border: none;
+  font: normal 16px/1 "Lucida Console", Monaco, monospace;
+  color: rgba(255,255,255,1);
+  text-align: left;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: black;
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+}
+.p2 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 0px;
+  overflow: hidden;
+  border: none;
+  font: normal 16px/1 "Lucida Console", Monaco, monospace;
+  color: rgba(255,255,255,1);
+  text-indent: 6px;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: rgba(91,91,91,0.89);
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+}
+a {
+	color: lime;
+	text-decoration:none;
+}
+.hb {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  margin: auto;
+  padding: 7px;
+  border: 3px solid rgba(0,255,4,1);
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  font: normal 16px/normal "Lucida Console", Monaco, monospace;
+  color: rgba(0,255,4,1);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: rgba(1,153,217,0);
+}
+body {
+	display: none;
+}
+nojs {
+	display: block;
+}

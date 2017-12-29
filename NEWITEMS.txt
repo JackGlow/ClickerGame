@@ -1,0 +1,13 @@
+Hello! I'm JackGlow! I will teach you, how to add new items to my Clicker example.
+
+1) Open custombuyables.js
+2) Edit custombuyables.js as Example in custombuyables.js :)
+3) Add in index.html new button as attachment 1.
+
+
+
+Attachments:
+1)
+<button class="hb" onclick="functionname()">Buy ITEM NAME (PRICE$)</button>
+
+Thanks for using my Clicker Game example! :)
